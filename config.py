@@ -53,16 +53,16 @@ class Txt(object):
 • I Cᴀɴ Rᴇɴᴀᴍᴇ & Cʜᴀɴɢᴇ Tʜᴜᴍʙɴᴀɪʟ Oꜰ Yᴏᴜʀ Fɪʟᴇ & Aʟsᴏ Cᴏɴᴠᴇʀᴛ Vɪᴅᴇᴏ Tᴏ Fɪʟᴇ & Fɪʟᴇ Tᴏ Vɪᴅᴇᴏ
 
 Wɪᴛʜ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ ✅
-❤️ Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ » @tamilmoviesmarri⚡ </b>"""
+❤️ Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ » @MARRIROCKERS⚡ </b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/tamilmoviesmarri>𝗦𝗣𝗘𝗘𝗗𝗬 𝗟𝗜𝗡𝗞𝗭</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/tamilmoviesmarri>Sᴘᴇᴇᴅʏ Tᴇᴄʜ.ɢɪᴛ</a>
-├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/tamilmoviesmarri>Pyʀᴏ Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Marri_Uchiha>MARRI TECH TEAM</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Marri_Uchiha>MAARI UCHIHA</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://t.me/Marri_Uchiha>Pyrogram</a>
+├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/Marri_Uchiha>Pyᴛʜᴏɴ 3</a>
+├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://t.me/Marri_Uchiha>Mᴏɴɢᴏ DB</a>
+├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://t.me/Marri_Uchiha></a>OBITO RENAME V2.0</b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -85,8 +85,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MᴏTᴇᴄʜ Yᴛ</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/Marri_Uchiha>MESSAGE ME GET</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/Marri_Uchiha>MAARI UCHIHA</a>
 • ❣️ <a href=https://github.com/lntechnical2>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
 • ❣️ <a href=https://t.me/Mhd_rzn>𝗠𝗵𝗱_𝗿𝘇𝗻</a>
 • ❣️ <a href=https://youtu.be/GfulqsSnTv4>𝗠𝗼𝗧𝗲𝗰𝗵 𝗬𝗧</a>
